@@ -117,7 +117,6 @@ heart-disease-prediction-ml/
 ├── images/
 │   ├── app_ui.png
 │   ├── prediction_result.png
-│   ├── model_performance.png
 │   ├── eda_chart.png
 │   └── heatmap.png
 ```
@@ -161,8 +160,10 @@ EDA was performed to understand relationships between patient features and heart
 - Correlation heatmap
 
 ```md
-![EDA Chart](images/eda_chart.png)
-![Heatmap](images/heatmap.png)
+<img width="1183" height="663" alt="EDA" src="https://github.com/user-attachments/assets/583c7869-1df7-47fc-a233-a62a06ea2729" />
+
+<img width="749" height="582" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/69a7be1b-5a06-4987-aae0-217fc54572d0" />
+
 ```
 
 ---
@@ -235,8 +236,10 @@ A user-friendly **Streamlit web application** was built with two tabs.
 - Highlights best model
 
 ```md
-![App UI](images/app_ui.png)
-![Prediction Result](images/prediction_result.png)
+<img width="1184" height="662" alt="Streamlit App" src="https://github.com/user-attachments/assets/97fa52a2-5e96-4a25-b938-7090f100b657" />
+
+<img width="1173" height="674" alt="Streamlit result" src="https://github.com/user-attachments/assets/405e505a-0ad4-4464-b00a-a6c683b82557" />
+
 ```
 
 ---
@@ -246,7 +249,7 @@ A user-friendly **Streamlit web application** was built with two tabs.
 The application is deployed on **Render**.
 
 ### 🌐 Live Demo
-👉 Add your Render live link here
+👉 (https://heart-disease-prediction-using-machine-ikso.onrender.com)
 
 This demonstrates:
 - production deployment
