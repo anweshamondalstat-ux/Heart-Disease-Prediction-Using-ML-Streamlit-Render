@@ -160,9 +160,9 @@ EDA was performed to understand relationships between patient features and heart
 - Correlation heatmap
 
 ```md
-!<img width="1183" height="663" alt="EDA" src="https://github.com/user-attachments/assets/583c7869-1df7-47fc-a233-a62a06ea2729" />
+![EDA](https://github.com/user-attachments/assets/583c7869-1df7-47fc-a233-a62a06ea2729)
 
-!<img width="749" height="582" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/69a7be1b-5a06-4987-aae0-217fc54572d0" />
+![Correlation Heatmap](https://github.com/user-attachments/assets/69a7be1b-5a06-4987-aae0-217fc54572d0)
 
 ```
 
