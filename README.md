@@ -217,9 +217,8 @@ The dataset was split into training and testing sets for fair evaluation.
 ### 🏆 Best Model
 **Random Forest Classifier** achieved the highest accuracy.
 
-```md
-![Model Performance](images/model_performance.png)
-```
+<img width="326" height="12" alt="image" src="https://github.com/user-attachments/assets/c413d185-92eb-4d2f-8e3b-c0a9af1adc76" />
+
 
 ---
 
