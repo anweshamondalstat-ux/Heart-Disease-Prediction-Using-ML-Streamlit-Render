@@ -160,9 +160,11 @@ EDA was performed to understand relationships between patient features and heart
 - Correlation heatmap
 
 
-[EDA](https://github.com/user-attachments/assets/583c7869-1df7-47fc-a233-a62a06ea2729)
+[EDA]<img width="1183" height="663" alt="EDA" src="https://github.com/user-attachments/assets/59a53918-9f86-4adc-bb16-5961378c9f09" />
 
-[Correlation Heatmap](https://github.com/user-attachments/assets/69a7be1b-5a06-4987-aae0-217fc54572d0)
+
+[Correlation Heatmap]<img width="749" height="582" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/0ad84dae-b8f1-493a-971b-1fb636e3406b" />
+
 
 
 <h2><a class="anchor" id="feature-engineering--encoding"></a>Feature Engineering & Encoding</h2>
