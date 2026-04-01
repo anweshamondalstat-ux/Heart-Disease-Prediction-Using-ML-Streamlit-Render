@@ -61,7 +61,7 @@ with tab1:
 algonames = ['Decision Trees', 'Logistic Regression', 'Random Forest', 'Support Vector Machine']
 
 # Model file names
-modelnames = ['DecisionTree.pkl', 'LogisticR.pkl', 'RandomForest.pkl', 'SVM.pkl']
+modelnames = ['DecisionTree.pkl', 'logisticR.pkl', 'RandomForest.pkl', 'SVM.pkl']
 
 predictions = []
 
